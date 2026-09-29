@@ -1,0 +1,8 @@
+numpy>=1.26
+pandas>=2.1
+scikit-learn>=1.4
+scipy>=1.11
+sentence-transformers>=3.0
+torch>=2.0.0
+networkx>=3.6
+plotly>=6.9.0

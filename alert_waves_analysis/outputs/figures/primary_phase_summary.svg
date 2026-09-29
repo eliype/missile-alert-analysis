@@ -1,0 +1,169 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1050" height="770" viewBox="0 0 1050 770">
+<rect width="100%" height="100%" fill="#ffffff"/>
+<text x="45.0" y="38.0" font-family="Arial, sans-serif" font-size="30" font-weight="700" fill="#172033" text-anchor="start">Alert footprint fell 71% while waves remained frequent</text>
+<text x="45.0" y="66.0" font-family="Arial, sans-serif" font-size="16" font-weight="400" fill="#667085" text-anchor="start">Primary Iran-reporting phase, 28 Feb-8 Apr 2026; daily observations and 7-day trailing means</text>
+<text x="100.0" y="107.0" font-family="Arial, sans-serif" font-size="18" font-weight="700" fill="#172033" text-anchor="start">A. Mean alert footprint per wave</text>
+<text x="1010.0" y="107.0" font-family="Arial, sans-serif" font-size="14" font-weight="400" fill="#667085" text-anchor="end">Spearman rho = -0.60; p &lt; 0.001</text>
+<rect x="100" y="125" width="151.7" height="220" fill="#f3f6fa" opacity="0.75"/>
+<rect x="858.3" y="125" width="151.7" height="220" fill="#fff3f0" opacity="0.75"/>
+<line x1="100" y1="345.0" x2="1010" y2="345.0" stroke="#d9e0ea"/>
+<text x="88.0" y="349.0" font-family="Arial, sans-serif" font-size="13" font-weight="400" fill="#667085" text-anchor="end">0</text>
+<line x1="100" y1="308.3" x2="1010" y2="308.3" stroke="#d9e0ea"/>
+<text x="88.0" y="312.3" font-family="Arial, sans-serif" font-size="13" font-weight="400" fill="#667085" text-anchor="end">100</text>
+<line x1="100" y1="271.7" x2="1010" y2="271.7" stroke="#d9e0ea"/>
+<text x="88.0" y="275.7" font-family="Arial, sans-serif" font-size="13" font-weight="400" fill="#667085" text-anchor="end">200</text>
+<line x1="100" y1="235.0" x2="1010" y2="235.0" stroke="#d9e0ea"/>
+<text x="88.0" y="239.0" font-family="Arial, sans-serif" font-size="13" font-weight="400" fill="#667085" text-anchor="end">300</text>
+<line x1="100" y1="198.3" x2="1010" y2="198.3" stroke="#d9e0ea"/>
+<text x="88.0" y="202.3" font-family="Arial, sans-serif" font-size="13" font-weight="400" fill="#667085" text-anchor="end">400</text>
+<line x1="100" y1="161.7" x2="1010" y2="161.7" stroke="#d9e0ea"/>
+<text x="88.0" y="165.7" font-family="Arial, sans-serif" font-size="13" font-weight="400" fill="#667085" text-anchor="end">500</text>
+<line x1="100" y1="125.0" x2="1010" y2="125.0" stroke="#d9e0ea"/>
+<text x="88.0" y="129.0" font-family="Arial, sans-serif" font-size="13" font-weight="400" fill="#667085" text-anchor="end">600</text>
+<polyline points="100.0,161.4 123.3,198.6 146.7,269.4 170.0,289.2 193.3,318.8 216.7,309.3 240.0,322.8 263.3,317.5 286.7,310.7 310.0,307.0 333.3,305.0 356.7,300.0 380.0,315.2 403.3,319.7 426.7,331.2 450.0,327.4 473.3,314.8 496.7,310.9 520.0,316.0 543.3,314.1 566.7,313.1 590.0,334.7 613.3,328.4 636.7,331.0 660.0,321.3 683.3,333.7 706.7,319.4 730.0,317.3 753.3,329.7 776.7,328.8 800.0,329.9 823.3,333.3 846.7,322.8 870.0,325.1 893.3,324.0 916.7,315.2 940.0,331.4 963.3,319.1 986.7,329.9 1010.0,311.9" fill="none" stroke="#2f80ed" stroke-width="1.7" opacity="0.55" stroke-linejoin="round"/>
+<circle cx="100.0" cy="161.4" r="3.2" fill="#2f80ed" opacity="0.72"/>
+<circle cx="123.3" cy="198.6" r="3.2" fill="#2f80ed" opacity="0.72"/>
+<circle cx="146.7" cy="269.4" r="3.2" fill="#2f80ed" opacity="0.72"/>
+<circle cx="170.0" cy="289.2" r="3.2" fill="#2f80ed" opacity="0.72"/>
+<circle cx="193.3" cy="318.8" r="3.2" fill="#2f80ed" opacity="0.72"/>
+<circle cx="216.7" cy="309.3" r="3.2" fill="#2f80ed" opacity="0.72"/>
+<circle cx="240.0" cy="322.8" r="3.2" fill="#2f80ed" opacity="0.72"/>
+<circle cx="263.3" cy="317.5" r="3.2" fill="#2f80ed" opacity="0.72"/>
+<circle cx="286.7" cy="310.7" r="3.2" fill="#2f80ed" opacity="0.72"/>
+<circle cx="310.0" cy="307.0" r="3.2" fill="#2f80ed" opacity="0.72"/>
+<circle cx="333.3" cy="305.0" r="3.2" fill="#2f80ed" opacity="0.72"/>
+<circle cx="356.7" cy="300.0" r="3.2" fill="#2f80ed" opacity="0.72"/>
+<circle cx="380.0" cy="315.2" r="3.2" fill="#2f80ed" opacity="0.72"/>
+<circle cx="403.3" cy="319.7" r="3.2" fill="#2f80ed" opacity="0.72"/>
+<circle cx="426.7" cy="331.2" r="3.2" fill="#2f80ed" opacity="0.72"/>
+<circle cx="450.0" cy="327.4" r="3.2" fill="#2f80ed" opacity="0.72"/>
+<circle cx="473.3" cy="314.8" r="3.2" fill="#2f80ed" opacity="0.72"/>
+<circle cx="496.7" cy="310.9" r="3.2" fill="#2f80ed" opacity="0.72"/>
+<circle cx="520.0" cy="316.0" r="3.2" fill="#2f80ed" opacity="0.72"/>
+<circle cx="543.3" cy="314.1" r="3.2" fill="#2f80ed" opacity="0.72"/>
+<circle cx="566.7" cy="313.1" r="3.2" fill="#2f80ed" opacity="0.72"/>
+<circle cx="590.0" cy="334.7" r="3.2" fill="#2f80ed" opacity="0.72"/>
+<circle cx="613.3" cy="328.4" r="3.2" fill="#2f80ed" opacity="0.72"/>
+<circle cx="636.7" cy="331.0" r="3.2" fill="#2f80ed" opacity="0.72"/>
+<circle cx="660.0" cy="321.3" r="3.2" fill="#2f80ed" opacity="0.72"/>
+<circle cx="683.3" cy="333.7" r="3.2" fill="#2f80ed" opacity="0.72"/>
+<circle cx="706.7" cy="319.4" r="3.2" fill="#2f80ed" opacity="0.72"/>
+<circle cx="730.0" cy="317.3" r="3.2" fill="#2f80ed" opacity="0.72"/>
+<circle cx="753.3" cy="329.7" r="3.2" fill="#2f80ed" opacity="0.72"/>
+<circle cx="776.7" cy="328.8" r="3.2" fill="#2f80ed" opacity="0.72"/>
+<circle cx="800.0" cy="329.9" r="3.2" fill="#2f80ed" opacity="0.72"/>
+<circle cx="823.3" cy="333.3" r="3.2" fill="#2f80ed" opacity="0.72"/>
+<circle cx="846.7" cy="322.8" r="3.2" fill="#2f80ed" opacity="0.72"/>
+<circle cx="870.0" cy="325.1" r="3.2" fill="#2f80ed" opacity="0.72"/>
+<circle cx="893.3" cy="324.0" r="3.2" fill="#2f80ed" opacity="0.72"/>
+<circle cx="916.7" cy="315.2" r="3.2" fill="#2f80ed" opacity="0.72"/>
+<circle cx="940.0" cy="331.4" r="3.2" fill="#2f80ed" opacity="0.72"/>
+<circle cx="963.3" cy="319.1" r="3.2" fill="#2f80ed" opacity="0.72"/>
+<circle cx="986.7" cy="329.9" r="3.2" fill="#2f80ed" opacity="0.72"/>
+<circle cx="1010.0" cy="311.9" r="3.2" fill="#2f80ed" opacity="0.72"/>
+<text x="109.0" y="179.4" font-family="Arial, sans-serif" font-size="13" font-weight="700" fill="#667085" text-anchor="start">28 Feb: 501</text>
+<polyline points="240.0,267.1 263.3,289.4 286.7,305.4 310.0,310.7 333.3,313.0 356.7,310.3 380.0,311.2 403.3,310.7 426.7,312.7 450.0,315.1 473.3,316.2 496.7,317.0 520.0,319.3 543.3,319.2 566.7,318.2 590.0,318.7 613.3,318.9 636.7,321.2 660.0,322.7 683.3,325.2 706.7,325.9 730.0,326.5 753.3,325.8 776.7,325.9 800.0,325.7 823.3,327.4 846.7,325.9 870.0,326.7 893.3,327.7 916.7,325.6 940.0,326.0 963.3,324.4 986.7,323.9 1010.0,322.4" fill="none" stroke="#7b61a8" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<line x1="100.0" y1="267.1" x2="240.0" y2="267.1" stroke="#e05a47" stroke-width="3" stroke-linecap="round"/>
+<text x="170.0" y="259.1" font-family="Arial, sans-serif" font-size="14" font-weight="700" fill="#e05a47" text-anchor="middle">First 7 days: 212.5</text>
+<line x1="870.0" y1="322.4" x2="1010.0" y2="322.4" stroke="#e05a47" stroke-width="3" stroke-linecap="round"/>
+<text x="940.0" y="314.4" font-family="Arial, sans-serif" font-size="14" font-weight="700" fill="#e05a47" text-anchor="middle">Last 7 days: 61.7</text>
+<text x="27.0" y="235.0" transform="rotate(-90 27.0 235.0)" font-family="Arial, sans-serif" font-size="16" font-weight="700" fill="#172033" text-anchor="middle">Mean alerted localities per wave</text>
+<line x1="100.0" y1="345.0" x2="100.0" y2="350.0" stroke="#667085"/>
+<text x="100.0" y="370.0" font-family="Arial, sans-serif" font-size="13" font-weight="400" fill="#667085" text-anchor="middle">28 Feb</text>
+<line x1="263.3" y1="345.0" x2="263.3" y2="350.0" stroke="#667085"/>
+<text x="263.3" y="370.0" font-family="Arial, sans-serif" font-size="13" font-weight="400" fill="#667085" text-anchor="middle">7 Mar</text>
+<line x1="426.7" y1="345.0" x2="426.7" y2="350.0" stroke="#667085"/>
+<text x="426.7" y="370.0" font-family="Arial, sans-serif" font-size="13" font-weight="400" fill="#667085" text-anchor="middle">14 Mar</text>
+<line x1="590.0" y1="345.0" x2="590.0" y2="350.0" stroke="#667085"/>
+<text x="590.0" y="370.0" font-family="Arial, sans-serif" font-size="13" font-weight="400" fill="#667085" text-anchor="middle">21 Mar</text>
+<line x1="753.3" y1="345.0" x2="753.3" y2="350.0" stroke="#667085"/>
+<text x="753.3" y="370.0" font-family="Arial, sans-serif" font-size="13" font-weight="400" fill="#667085" text-anchor="middle">28 Mar</text>
+<line x1="916.7" y1="345.0" x2="916.7" y2="350.0" stroke="#667085"/>
+<text x="916.7" y="370.0" font-family="Arial, sans-serif" font-size="13" font-weight="400" fill="#667085" text-anchor="middle">4 Apr</text>
+<line x1="1010.0" y1="345.0" x2="1010.0" y2="350.0" stroke="#667085"/>
+<text x="1010.0" y="370.0" font-family="Arial, sans-serif" font-size="13" font-weight="400" fill="#667085" text-anchor="middle">8 Apr</text>
+<text x="555.0" y="395.0" font-family="Arial, sans-serif" font-size="13" font-weight="700" fill="#172033" text-anchor="middle">Date (2026)</text>
+<text x="100.0" y="427.0" font-family="Arial, sans-serif" font-size="18" font-weight="700" fill="#172033" text-anchor="start">B. Reconstructed waves per day</text>
+<text x="1010.0" y="427.0" font-family="Arial, sans-serif" font-size="14" font-weight="400" fill="#667085" text-anchor="end">Spearman rho = +0.21; p = 0.187</text>
+<rect x="100" y="445" width="151.7" height="170" fill="#f3f6fa" opacity="0.75"/>
+<rect x="858.3" y="445" width="151.7" height="170" fill="#fff3f0" opacity="0.75"/>
+<line x1="100" y1="615.0" x2="1010" y2="615.0" stroke="#d9e0ea"/>
+<text x="88.0" y="619.0" font-family="Arial, sans-serif" font-size="13" font-weight="400" fill="#667085" text-anchor="end">0</text>
+<line x1="100" y1="572.5" x2="1010" y2="572.5" stroke="#d9e0ea"/>
+<text x="88.0" y="576.5" font-family="Arial, sans-serif" font-size="13" font-weight="400" fill="#667085" text-anchor="end">10</text>
+<line x1="100" y1="530.0" x2="1010" y2="530.0" stroke="#d9e0ea"/>
+<text x="88.0" y="534.0" font-family="Arial, sans-serif" font-size="13" font-weight="400" fill="#667085" text-anchor="end">20</text>
+<line x1="100" y1="487.5" x2="1010" y2="487.5" stroke="#d9e0ea"/>
+<text x="88.0" y="491.5" font-family="Arial, sans-serif" font-size="13" font-weight="400" fill="#667085" text-anchor="end">30</text>
+<line x1="100" y1="445.0" x2="1010" y2="445.0" stroke="#d9e0ea"/>
+<text x="88.0" y="449.0" font-family="Arial, sans-serif" font-size="13" font-weight="400" fill="#667085" text-anchor="end">40</text>
+<rect x="93.2" y="538.5" width="13.5" height="76.5" fill="#2f80ed" opacity="0.48" rx="1.5"/>
+<rect x="116.6" y="551.2" width="13.5" height="63.8" fill="#2f80ed" opacity="0.48" rx="1.5"/>
+<rect x="139.9" y="564.0" width="13.5" height="51.0" fill="#2f80ed" opacity="0.48" rx="1.5"/>
+<rect x="163.2" y="530.0" width="13.5" height="85.0" fill="#2f80ed" opacity="0.48" rx="1.5"/>
+<rect x="186.6" y="483.2" width="13.5" height="131.8" fill="#2f80ed" opacity="0.48" rx="1.5"/>
+<rect x="209.9" y="530.0" width="13.5" height="85.0" fill="#2f80ed" opacity="0.48" rx="1.5"/>
+<rect x="233.2" y="538.5" width="13.5" height="76.5" fill="#2f80ed" opacity="0.48" rx="1.5"/>
+<rect x="256.6" y="462.0" width="13.5" height="153.0" fill="#2f80ed" opacity="0.48" rx="1.5"/>
+<rect x="279.9" y="504.5" width="13.5" height="110.5" fill="#2f80ed" opacity="0.48" rx="1.5"/>
+<rect x="303.2" y="500.2" width="13.5" height="114.8" fill="#2f80ed" opacity="0.48" rx="1.5"/>
+<rect x="326.6" y="521.5" width="13.5" height="93.5" fill="#2f80ed" opacity="0.48" rx="1.5"/>
+<rect x="349.9" y="538.5" width="13.5" height="76.5" fill="#2f80ed" opacity="0.48" rx="1.5"/>
+<rect x="373.2" y="538.5" width="13.5" height="76.5" fill="#2f80ed" opacity="0.48" rx="1.5"/>
+<rect x="396.6" y="513.0" width="13.5" height="102.0" fill="#2f80ed" opacity="0.48" rx="1.5"/>
+<rect x="419.9" y="500.2" width="13.5" height="114.8" fill="#2f80ed" opacity="0.48" rx="1.5"/>
+<rect x="443.2" y="504.5" width="13.5" height="110.5" fill="#2f80ed" opacity="0.48" rx="1.5"/>
+<rect x="466.6" y="517.2" width="13.5" height="97.8" fill="#2f80ed" opacity="0.48" rx="1.5"/>
+<rect x="489.9" y="534.2" width="13.5" height="80.8" fill="#2f80ed" opacity="0.48" rx="1.5"/>
+<rect x="513.2" y="521.5" width="13.5" height="93.5" fill="#2f80ed" opacity="0.48" rx="1.5"/>
+<rect x="536.6" y="487.5" width="13.5" height="127.5" fill="#2f80ed" opacity="0.48" rx="1.5"/>
+<rect x="559.9" y="479.0" width="13.5" height="136.0" fill="#2f80ed" opacity="0.48" rx="1.5"/>
+<rect x="583.2" y="496.0" width="13.5" height="119.0" fill="#2f80ed" opacity="0.48" rx="1.5"/>
+<rect x="606.6" y="496.0" width="13.5" height="119.0" fill="#2f80ed" opacity="0.48" rx="1.5"/>
+<rect x="629.9" y="525.8" width="13.5" height="89.2" fill="#2f80ed" opacity="0.48" rx="1.5"/>
+<rect x="653.2" y="508.8" width="13.5" height="106.2" fill="#2f80ed" opacity="0.48" rx="1.5"/>
+<rect x="676.6" y="470.5" width="13.5" height="144.5" fill="#2f80ed" opacity="0.48" rx="1.5"/>
+<rect x="699.9" y="457.8" width="13.5" height="157.2" fill="#2f80ed" opacity="0.48" rx="1.5"/>
+<rect x="723.2" y="534.2" width="13.5" height="80.8" fill="#2f80ed" opacity="0.48" rx="1.5"/>
+<rect x="746.6" y="530.0" width="13.5" height="85.0" fill="#2f80ed" opacity="0.48" rx="1.5"/>
+<rect x="769.9" y="491.8" width="13.5" height="123.2" fill="#2f80ed" opacity="0.48" rx="1.5"/>
+<rect x="793.2" y="517.2" width="13.5" height="97.8" fill="#2f80ed" opacity="0.48" rx="1.5"/>
+<rect x="816.6" y="513.0" width="13.5" height="102.0" fill="#2f80ed" opacity="0.48" rx="1.5"/>
+<rect x="839.9" y="500.2" width="13.5" height="114.8" fill="#2f80ed" opacity="0.48" rx="1.5"/>
+<rect x="863.2" y="479.0" width="13.5" height="136.0" fill="#2f80ed" opacity="0.48" rx="1.5"/>
+<rect x="886.6" y="491.8" width="13.5" height="123.2" fill="#2f80ed" opacity="0.48" rx="1.5"/>
+<rect x="909.9" y="538.5" width="13.5" height="76.5" fill="#2f80ed" opacity="0.48" rx="1.5"/>
+<rect x="933.2" y="530.0" width="13.5" height="85.0" fill="#2f80ed" opacity="0.48" rx="1.5"/>
+<rect x="956.6" y="530.0" width="13.5" height="85.0" fill="#2f80ed" opacity="0.48" rx="1.5"/>
+<rect x="979.9" y="479.0" width="13.5" height="136.0" fill="#2f80ed" opacity="0.48" rx="1.5"/>
+<rect x="1003.2" y="593.8" width="13.5" height="21.2" fill="#2f80ed" opacity="0.48" rx="1.5"/>
+<text x="1003.0" y="585.8" font-family="Arial, sans-serif" font-size="13" font-weight="700" fill="#667085" text-anchor="end">8 Apr: 5</text>
+<polyline points="240.0,533.6 263.3,522.7 286.7,516.0 310.0,506.9 333.3,505.7 356.7,513.6 380.0,514.8 403.3,511.2 426.7,516.6 450.0,516.6 473.3,519.1 496.7,520.9 520.0,518.5 543.3,511.2 566.7,506.3 590.0,505.7 613.3,504.5 636.7,505.7 660.0,502.1 683.3,494.8 706.7,490.5 730.0,498.4 753.3,503.3 776.7,502.7 800.0,501.5 823.3,502.1 846.7,506.3 870.0,509.4 893.3,503.3 916.7,504.5 940.0,510.0 963.3,511.8 986.7,506.9 1010.0,520.3" fill="none" stroke="#7b61a8" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<line x1="100.0" y1="533.6" x2="240.0" y2="533.6" stroke="#e05a47" stroke-width="3" stroke-linecap="round"/>
+<text x="170.0" y="525.6" font-family="Arial, sans-serif" font-size="14" font-weight="700" fill="#e05a47" text-anchor="middle">First 7 days: 19.1</text>
+<line x1="870.0" y1="520.3" x2="1010.0" y2="520.3" stroke="#e05a47" stroke-width="3" stroke-linecap="round"/>
+<text x="940.0" y="512.3" font-family="Arial, sans-serif" font-size="14" font-weight="700" fill="#e05a47" text-anchor="middle">Last 7 days: 22.3</text>
+<text x="27.0" y="530.0" transform="rotate(-90 27.0 530.0)" font-family="Arial, sans-serif" font-size="16" font-weight="700" fill="#172033" text-anchor="middle">Waves per day</text>
+<line x1="100.0" y1="615.0" x2="100.0" y2="620.0" stroke="#667085"/>
+<text x="100.0" y="640.0" font-family="Arial, sans-serif" font-size="13" font-weight="400" fill="#667085" text-anchor="middle">28 Feb</text>
+<line x1="263.3" y1="615.0" x2="263.3" y2="620.0" stroke="#667085"/>
+<text x="263.3" y="640.0" font-family="Arial, sans-serif" font-size="13" font-weight="400" fill="#667085" text-anchor="middle">7 Mar</text>
+<line x1="426.7" y1="615.0" x2="426.7" y2="620.0" stroke="#667085"/>
+<text x="426.7" y="640.0" font-family="Arial, sans-serif" font-size="13" font-weight="400" fill="#667085" text-anchor="middle">14 Mar</text>
+<line x1="590.0" y1="615.0" x2="590.0" y2="620.0" stroke="#667085"/>
+<text x="590.0" y="640.0" font-family="Arial, sans-serif" font-size="13" font-weight="400" fill="#667085" text-anchor="middle">21 Mar</text>
+<line x1="753.3" y1="615.0" x2="753.3" y2="620.0" stroke="#667085"/>
+<text x="753.3" y="640.0" font-family="Arial, sans-serif" font-size="13" font-weight="400" fill="#667085" text-anchor="middle">28 Mar</text>
+<line x1="916.7" y1="615.0" x2="916.7" y2="620.0" stroke="#667085"/>
+<text x="916.7" y="640.0" font-family="Arial, sans-serif" font-size="13" font-weight="400" fill="#667085" text-anchor="middle">4 Apr</text>
+<line x1="1010.0" y1="615.0" x2="1010.0" y2="620.0" stroke="#667085"/>
+<text x="1010.0" y="640.0" font-family="Arial, sans-serif" font-size="13" font-weight="400" fill="#667085" text-anchor="middle">8 Apr</text>
+<text x="555.0" y="665.0" font-family="Arial, sans-serif" font-size="13" font-weight="700" fill="#172033" text-anchor="middle">Date (2026)</text>
+<circle cx="105" cy="708" r="4" fill="#2f80ed" opacity="0.72"/>
+<text x="117.0" y="712.0" font-family="Arial, sans-serif" font-size="14" font-weight="400" fill="#667085" text-anchor="start">Daily value</text>
+<line x1="225" y1="708" x2="253" y2="708" stroke="#7b61a8" stroke-width="4" stroke-linecap="round"/>
+<text x="263.0" y="712.0" font-family="Arial, sans-serif" font-size="14" font-weight="400" fill="#667085" text-anchor="start">7-day trailing mean</text>
+<line x1="435" y1="708" x2="463" y2="708" stroke="#e05a47" stroke-width="3" stroke-linecap="round"/>
+<text x="473.0" y="712.0" font-family="Arial, sans-serif" font-size="14" font-weight="400" fill="#667085" text-anchor="start">First/last 7-day mean</text>
+<text x="100.0" y="748.0" font-family="Arial, sans-serif" font-size="13" font-weight="400" fill="#667085" text-anchor="start">Footprint is the number of distinct alerted localities, not missile count.</text>
+</svg>

@@ -1,0 +1,114 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1050" height="450" viewBox="0 0 1050 450">
+<rect width="100%" height="100%" fill="#ffffff"/>
+<text x="36.0" y="31.0" font-family="Arial, sans-serif" font-size="25" font-weight="700" fill="#172033" text-anchor="start">Two clusters capture the dominant alert-footprint split</text>
+<text x="36.0" y="55.0" font-family="Arial, sans-serif" font-size="14" font-weight="400" fill="#667085" text-anchor="start">K-means++ on log(1 + footprint)</text>
+<text x="36.0" y="86.0" font-family="Arial, sans-serif" font-size="17" font-weight="700" fill="#172033" text-anchor="start">A. Footprint distribution</text>
+<line x1="72" y1="355.0" x2="652" y2="355.0" stroke="#d9e0ea"/>
+<text x="62.0" y="360.0" font-family="Arial, sans-serif" font-size="13" font-weight="400" fill="#667085" text-anchor="end">0%</text>
+<line x1="72" y1="295.0" x2="652" y2="295.0" stroke="#d9e0ea"/>
+<text x="62.0" y="300.0" font-family="Arial, sans-serif" font-size="13" font-weight="400" fill="#667085" text-anchor="end">7%</text>
+<line x1="72" y1="235.0" x2="652" y2="235.0" stroke="#d9e0ea"/>
+<text x="62.0" y="240.0" font-family="Arial, sans-serif" font-size="13" font-weight="400" fill="#667085" text-anchor="end">14%</text>
+<line x1="72" y1="175.0" x2="652" y2="175.0" stroke="#d9e0ea"/>
+<text x="62.0" y="180.0" font-family="Arial, sans-serif" font-size="13" font-weight="400" fill="#667085" text-anchor="end">21%</text>
+<line x1="72" y1="115.0" x2="652" y2="115.0" stroke="#d9e0ea"/>
+<text x="62.0" y="120.0" font-family="Arial, sans-serif" font-size="13" font-weight="400" fill="#667085" text-anchor="end">29%</text>
+<rect x="75.9" y="146.3" width="16.4" height="208.7" fill="#2f80ed" opacity="0.82"/>
+<rect x="100.0" y="355.0" width="16.4" height="0.0" fill="#2f80ed" opacity="0.82"/>
+<rect x="124.2" y="255.6" width="16.4" height="99.4" fill="#2f80ed" opacity="0.82"/>
+<rect x="148.4" y="276.6" width="16.4" height="78.4" fill="#2f80ed" opacity="0.82"/>
+<rect x="172.5" y="282.2" width="16.4" height="72.8" fill="#2f80ed" opacity="0.82"/>
+<rect x="196.7" y="322.8" width="16.4" height="32.2" fill="#2f80ed" opacity="0.82"/>
+<rect x="220.9" y="298.3" width="16.4" height="56.7" fill="#2f80ed" opacity="0.82"/>
+<rect x="245.0" y="333.3" width="16.4" height="21.7" fill="#2f80ed" opacity="0.82"/>
+<rect x="269.2" y="329.1" width="16.4" height="25.9" fill="#2f80ed" opacity="0.82"/>
+<rect x="293.4" y="344.5" width="16.4" height="10.5" fill="#e05a47" opacity="0.82"/>
+<rect x="317.5" y="339.6" width="16.4" height="15.4" fill="#e05a47" opacity="0.82"/>
+<rect x="341.7" y="347.3" width="16.4" height="7.7" fill="#e05a47" opacity="0.82"/>
+<rect x="365.9" y="341.7" width="16.4" height="13.3" fill="#e05a47" opacity="0.82"/>
+<rect x="390.0" y="336.1" width="16.4" height="18.9" fill="#e05a47" opacity="0.82"/>
+<rect x="414.2" y="302.5" width="16.4" height="52.5" fill="#e05a47" opacity="0.82"/>
+<rect x="438.4" y="306.0" width="16.4" height="49.0" fill="#e05a47" opacity="0.82"/>
+<rect x="462.5" y="313.0" width="16.4" height="42.0" fill="#e05a47" opacity="0.82"/>
+<rect x="486.7" y="336.1" width="16.4" height="18.9" fill="#e05a47" opacity="0.82"/>
+<rect x="510.9" y="347.3" width="16.4" height="7.7" fill="#e05a47" opacity="0.82"/>
+<rect x="535.0" y="352.2" width="16.4" height="2.8" fill="#e05a47" opacity="0.82"/>
+<rect x="559.2" y="352.2" width="16.4" height="2.8" fill="#e05a47" opacity="0.82"/>
+<rect x="583.4" y="355.0" width="16.4" height="0.0" fill="#e05a47" opacity="0.82"/>
+<rect x="607.5" y="355.0" width="16.4" height="0.0" fill="#e05a47" opacity="0.82"/>
+<rect x="631.7" y="355.0" width="16.4" height="0.0" fill="#e05a47" opacity="0.82"/>
+<text x="72.0" y="379.0" font-family="Arial, sans-serif" font-size="13" font-weight="400" fill="#667085" text-anchor="middle">1</text>
+<text x="168.7" y="379.0" font-family="Arial, sans-serif" font-size="13" font-weight="400" fill="#667085" text-anchor="middle">4</text>
+<text x="265.3" y="379.0" font-family="Arial, sans-serif" font-size="13" font-weight="400" fill="#667085" text-anchor="middle">16</text>
+<text x="362.0" y="379.0" font-family="Arial, sans-serif" font-size="13" font-weight="400" fill="#667085" text-anchor="middle">64</text>
+<text x="458.7" y="379.0" font-family="Arial, sans-serif" font-size="13" font-weight="400" fill="#667085" text-anchor="middle">256</text>
+<text x="555.3" y="379.0" font-family="Arial, sans-serif" font-size="13" font-weight="400" fill="#667085" text-anchor="middle">1024</text>
+<line x1="299.2" y1="115" x2="299.2" y2="355" stroke="#e05a47" stroke-width="2" stroke-dasharray="7 5"/>
+<text x="306.2" y="133.0" font-family="Arial, sans-serif" font-size="13" font-weight="700" fill="#e05a47" text-anchor="start">Split: 26 localities</text>
+<circle cx="270" cy="84" r="5" fill="#2f80ed"/>
+<text x="281.0" y="89.0" font-family="Arial, sans-serif" font-size="12" font-weight="700" fill="#2f80ed" text-anchor="start">Localized: 1-25 localities (853 waves)</text>
+<circle cx="502" cy="84" r="5" fill="#e05a47"/>
+<text x="513.0" y="89.0" font-family="Arial, sans-serif" font-size="12" font-weight="700" fill="#e05a47" text-anchor="start">Broad: 26+ localities (343 waves)</text>
+<text x="362.0" y="416.0" font-family="Arial, sans-serif" font-size="14" font-weight="700" fill="#172033" text-anchor="middle">Distinct alerted localities per wave (log scale)</text>
+<text x="21.0" y="235.0" transform="rotate(-90 21.0 235.0)" font-family="Arial, sans-serif" font-size="14" font-weight="700" fill="#172033" text-anchor="middle">Share of waves</text>
+<line x1="690" y1="76" x2="690" y2="430" stroke="#d9e0ea"/>
+<text x="716.0" y="86.0" font-family="Arial, sans-serif" font-size="17" font-weight="700" fill="#172033" text-anchor="start">B. SSE elbow</text>
+<line x1="748" y1="200.0" x2="1018" y2="200.0" stroke="#d9e0ea"/>
+<text x="740.0" y="205.0" font-family="Arial, sans-serif" font-size="12" font-weight="400" fill="#667085" text-anchor="end">0%</text>
+<line x1="748" y1="151.0" x2="1018" y2="151.0" stroke="#d9e0ea"/>
+<text x="740.0" y="156.0" font-family="Arial, sans-serif" font-size="12" font-weight="400" fill="#667085" text-anchor="end">50%</text>
+<line x1="748" y1="102.0" x2="1018" y2="102.0" stroke="#d9e0ea"/>
+<text x="740.0" y="107.0" font-family="Arial, sans-serif" font-size="12" font-weight="400" fill="#667085" text-anchor="end">100%</text>
+<text x="748.0" y="219.0" font-family="Arial, sans-serif" font-size="11" font-weight="400" fill="#667085" text-anchor="middle">1</text>
+<text x="772.5" y="219.0" font-family="Arial, sans-serif" font-size="11" font-weight="400" fill="#667085" text-anchor="middle">2</text>
+<text x="780.5" y="178.1" font-family="Arial, sans-serif" font-size="11" font-weight="700" fill="#e05a47" text-anchor="start">k=2: 15.2% remains</text>
+<text x="821.6" y="219.0" font-family="Arial, sans-serif" font-size="11" font-weight="400" fill="#667085" text-anchor="middle">4</text>
+<text x="870.7" y="219.0" font-family="Arial, sans-serif" font-size="11" font-weight="400" fill="#667085" text-anchor="middle">6</text>
+<text x="919.8" y="219.0" font-family="Arial, sans-serif" font-size="11" font-weight="400" fill="#667085" text-anchor="middle">8</text>
+<text x="968.9" y="219.0" font-family="Arial, sans-serif" font-size="11" font-weight="400" fill="#667085" text-anchor="middle">10</text>
+<text x="1018.0" y="219.0" font-family="Arial, sans-serif" font-size="11" font-weight="400" fill="#667085" text-anchor="middle">12</text>
+<polyline points="748.0,102.0 772.5,185.1 797.1,193.6 821.6,195.8 846.2,197.3 870.7,198.1 895.3,198.6 919.8,199.0 944.4,199.2 968.9,199.4 993.5,199.5 1018.0,199.6" fill="none" stroke="#7b61a8" stroke-width="3" stroke-linejoin="round"/>
+<circle cx="748.0" cy="102.0" r="3.5" fill="#7b61a8"/>
+<circle cx="772.5" cy="185.1" r="5" fill="#e05a47"/>
+<circle cx="797.1" cy="193.6" r="3.5" fill="#7b61a8"/>
+<circle cx="821.6" cy="195.8" r="3.5" fill="#7b61a8"/>
+<circle cx="846.2" cy="197.3" r="3.5" fill="#7b61a8"/>
+<circle cx="870.7" cy="198.1" r="3.5" fill="#7b61a8"/>
+<circle cx="895.3" cy="198.6" r="3.5" fill="#7b61a8"/>
+<circle cx="919.8" cy="199.0" r="3.5" fill="#aeb8c5"/>
+<circle cx="944.4" cy="199.2" r="3.5" fill="#aeb8c5"/>
+<circle cx="968.9" cy="199.4" r="3.5" fill="#aeb8c5"/>
+<circle cx="993.5" cy="199.5" r="3.5" fill="#aeb8c5"/>
+<circle cx="1018.0" cy="199.6" r="3.5" fill="#aeb8c5"/>
+<text x="704.0" y="151.0" transform="rotate(-90 704.0 151.0)" font-family="Arial, sans-serif" font-size="12" font-weight="700" fill="#172033" text-anchor="middle">SSE vs. k=1</text>
+<text x="883.0" y="238.0" font-family="Arial, sans-serif" font-size="12" font-weight="700" fill="#172033" text-anchor="middle">Number of clusters, k</text>
+<text x="883.0" y="257.0" font-family="Arial, sans-serif" font-size="11" font-weight="400" fill="#667085" text-anchor="middle">k=2 stability: mean ARI = 0.997 across 20 runs</text>
+<text x="716.0" y="300.0" font-family="Arial, sans-serif" font-size="17" font-weight="700" fill="#172033" text-anchor="start">C. Cohesion and separation</text>
+<line x1="748" y1="402.0" x2="1018" y2="402.0" stroke="#d9e0ea"/>
+<text x="740.0" y="407.0" font-family="Arial, sans-serif" font-size="12" font-weight="400" fill="#667085" text-anchor="end">0.0</text>
+<line x1="748" y1="359.0" x2="1018" y2="359.0" stroke="#d9e0ea"/>
+<text x="740.0" y="364.0" font-family="Arial, sans-serif" font-size="12" font-weight="400" fill="#667085" text-anchor="end">0.5</text>
+<line x1="748" y1="316.0" x2="1018" y2="316.0" stroke="#d9e0ea"/>
+<text x="740.0" y="321.0" font-family="Arial, sans-serif" font-size="12" font-weight="400" fill="#667085" text-anchor="end">1.0</text>
+<text x="748.0" y="421.0" font-family="Arial, sans-serif" font-size="11" font-weight="400" fill="#667085" text-anchor="middle">2</text>
+<text x="756.0" y="329.2" font-family="Arial, sans-serif" font-size="11" font-weight="700" fill="#e05a47" text-anchor="start">k=2: 0.765 (highest)</text>
+<text x="802.0" y="421.0" font-family="Arial, sans-serif" font-size="11" font-weight="400" fill="#667085" text-anchor="middle">4</text>
+<text x="856.0" y="421.0" font-family="Arial, sans-serif" font-size="11" font-weight="400" fill="#667085" text-anchor="middle">6</text>
+<text x="910.0" y="421.0" font-family="Arial, sans-serif" font-size="11" font-weight="400" fill="#667085" text-anchor="middle">8</text>
+<text x="964.0" y="421.0" font-family="Arial, sans-serif" font-size="11" font-weight="400" fill="#667085" text-anchor="middle">10</text>
+<text x="1018.0" y="421.0" font-family="Arial, sans-serif" font-size="11" font-weight="400" fill="#667085" text-anchor="middle">12</text>
+<polyline points="748.0,336.2 775.0,343.6 802.0,345.6 829.0,349.3 856.0,348.5 883.0,343.8 910.0,343.9 937.0,342.8 964.0,342.4 991.0,338.2 1018.0,338.6" fill="none" stroke="#2f80ed" stroke-width="3" stroke-linejoin="round"/>
+<circle cx="748.0" cy="336.2" r="5" fill="#e05a47"/>
+<circle cx="775.0" cy="343.6" r="3.5" fill="#2f80ed"/>
+<circle cx="802.0" cy="345.6" r="3.5" fill="#2f80ed"/>
+<circle cx="829.0" cy="349.3" r="3.5" fill="#2f80ed"/>
+<circle cx="856.0" cy="348.5" r="3.5" fill="#2f80ed"/>
+<circle cx="883.0" cy="343.8" r="3.5" fill="#2f80ed"/>
+<circle cx="910.0" cy="343.9" r="3.5" fill="#aeb8c5"/>
+<circle cx="937.0" cy="342.8" r="3.5" fill="#aeb8c5"/>
+<circle cx="964.0" cy="342.4" r="3.5" fill="#aeb8c5"/>
+<circle cx="991.0" cy="338.2" r="3.5" fill="#aeb8c5"/>
+<circle cx="1018.0" cy="338.6" r="3.5" fill="#aeb8c5"/>
+<text x="704.0" y="359.0" transform="rotate(-90 704.0 359.0)" font-family="Arial, sans-serif" font-size="12" font-weight="700" fill="#172033" text-anchor="middle">Silhouette</text>
+<text x="883.0" y="444.0" font-family="Arial, sans-serif" font-size="12" font-weight="700" fill="#172033" text-anchor="middle">Number of clusters, k</text>
+</svg>

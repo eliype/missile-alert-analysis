@@ -1,0 +1,2 @@
+iran_broad,iran_localized,lebanon_broad,lebanon_localized,p_broad_given_iran,p_localized_given_lebanon,p_iran_given_broad,p_lebanon_given_localized,broad_iran_vs_lebanon_odds_ratio,fisher_exact_p_value
+258,36,5,44,0.8775510204081632,0.8979591836734694,0.9809885931558935,0.55,63.06666666666667,9.763987627698399e-28

@@ -1,0 +1,60 @@
+{
+  "parameters": {
+    "alerts": "/Users/rankrausz/exs/needle-project/data/processed/second_war.csv",
+    "start": "2026-02-28",
+    "end": "2026-06-17",
+    "wave_gap_minutes": 8,
+    "initial_telegram_before": 18800,
+    "matching_features": [
+      "official event time",
+      "time-basis-specific window"
+    ],
+    "features_not_used_for_matching": [
+      "zone_count",
+      "wave_family_proxy",
+      "pre-warning coverage",
+      "geography"
+    ]
+  },
+  "counts": {
+    "official_messages": 2311,
+    "candidate_incoming_threats": 416,
+    "missile_alert_rows": 93872,
+    "reconstructed_waves": 1196,
+    "wave_locality_rows": 81209,
+    "unique_localities": 1446,
+    "source_labeled_waves": 345,
+    "source_label_coverage": 0.28846153846153844,
+    "manual_validation_reviewed_events": 0
+  },
+  "event_match_status": {
+    "medium": 181,
+    "high": 179,
+    "not_eligible": 22,
+    "unmatched": 19,
+    "ambiguous": 15
+  },
+  "wave_source_labels": {
+    "unknown": 851,
+    "iran": 294,
+    "lebanon": 49,
+    "mixed": 2
+  },
+  "source_family_association": {
+    "iran_broad": 258.0,
+    "iran_localized": 36.0,
+    "lebanon_broad": 5.0,
+    "lebanon_localized": 44.0,
+    "p_broad_given_iran": 0.8775510204081632,
+    "p_localized_given_lebanon": 0.8979591836734694,
+    "p_iran_given_broad": 0.9809885931558935,
+    "p_lebanon_given_localized": 0.55,
+    "broad_iran_vs_lebanon_odds_ratio": 63.06666666666667,
+    "fisher_exact_p_value": 9.763987627698399e-28
+  },
+  "iran_labeled_primary_phase_evolution": {
+    "end_date_inclusive": "2026-04-08",
+    "day_vs_daily_mean_zone_count_spearman_rho": -0.5069418386491559,
+    "spearman_p_value": 0.0008430941918037859
+  }
+}

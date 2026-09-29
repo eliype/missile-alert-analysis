@@ -1,0 +1,10 @@
+.venv/
+__pycache__/
+*.py[cod]
+.DS_Store
+.idea/
+node_modules/
+dist/
+tmp/
+alert_waves_analysis/data/raw/idf_telegram_pages/*.html
+alert_waves_analysis/report_site/

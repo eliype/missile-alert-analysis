@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="570" viewBox="0 0 760 570">
+<rect width="100%" height="100%" fill="#ffffff"/>
+<text x="38.0" y="38.0" font-family="Arial, sans-serif" font-size="24" font-weight="700" fill="#172033" text-anchor="start">Broad waves have a distinct pre-warning signature</text>
+<text x="38.0" y="66.0" font-family="Arial, sans-serif" font-size="14" font-weight="400" fill="#667085" text-anchor="start">Second war: share of a wave&#x27;s zones warned in the previous hour</text>
+<line x1="100" y1="470.0" x2="715" y2="470.0" stroke="#d9e0ea"/>
+<text x="90.0" y="475.0" font-family="Arial, sans-serif" font-size="12" font-weight="400" fill="#667085" text-anchor="end">0%</text>
+<line x1="100" y1="396.0" x2="715" y2="396.0" stroke="#d9e0ea"/>
+<text x="90.0" y="401.0" font-family="Arial, sans-serif" font-size="12" font-weight="400" fill="#667085" text-anchor="end">20%</text>
+<line x1="100" y1="322.0" x2="715" y2="322.0" stroke="#d9e0ea"/>
+<text x="90.0" y="327.0" font-family="Arial, sans-serif" font-size="12" font-weight="400" fill="#667085" text-anchor="end">40%</text>
+<line x1="100" y1="248.0" x2="715" y2="248.0" stroke="#d9e0ea"/>
+<text x="90.0" y="253.0" font-family="Arial, sans-serif" font-size="12" font-weight="400" fill="#667085" text-anchor="end">60%</text>
+<line x1="100" y1="174.0" x2="715" y2="174.0" stroke="#d9e0ea"/>
+<text x="90.0" y="179.0" font-family="Arial, sans-serif" font-size="12" font-weight="400" fill="#667085" text-anchor="end">80%</text>
+<line x1="100" y1="100.0" x2="715" y2="100.0" stroke="#d9e0ea"/>
+<text x="90.0" y="105.0" font-family="Arial, sans-serif" font-size="12" font-weight="400" fill="#667085" text-anchor="end">100%</text>
+<rect x="181.2" y="438.1" width="145" height="31.9" rx="5" fill="#2f80ed" opacity="0.9"/>
+<text x="253.8" y="426.1" font-family="Arial, sans-serif" font-size="16" font-weight="700" fill="#2f80ed" text-anchor="middle">9% mean</text>
+<text x="253.8" y="502.0" font-family="Arial, sans-serif" font-size="15" font-weight="700" fill="#172033" text-anchor="middle">Localized</text>
+<text x="253.8" y="524.0" font-family="Arial, sans-serif" font-size="12" font-weight="400" fill="#667085" text-anchor="middle">median 0%; n=853</text>
+<rect x="488.8" y="153.0" width="145" height="317.0" rx="5" fill="#e05a47" opacity="0.9"/>
+<text x="561.2" y="141.0" font-family="Arial, sans-serif" font-size="16" font-weight="700" fill="#e05a47" text-anchor="middle">86% mean</text>
+<text x="561.2" y="502.0" font-family="Arial, sans-serif" font-size="15" font-weight="700" fill="#172033" text-anchor="middle">Broad</text>
+<text x="561.2" y="524.0" font-family="Arial, sans-serif" font-size="12" font-weight="400" fill="#667085" text-anchor="middle">median 99%; n=343</text>
+</svg>
